@@ -603,6 +603,7 @@ h1, h2, h3 {
 @media (max-width: 480px) {
     .hero h1 {
         font-size: 2rem;
+            text-align: center;
     }
 
     .cta-button {

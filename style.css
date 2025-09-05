@@ -259,7 +259,7 @@ h1, h2, h3 {
 
 .portfolio-item:nth-child(1) .portfolio-image {
     background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), 
-                      url('https://images.unsplash.com/photo-1519225421980-715cb0215aed?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80');
+                      url('Wedding 1.jpg');
 }
 
 .portfolio-item:nth-child(2) .portfolio-image {

@@ -54,7 +54,11 @@ h1, h2, h3 {
     color: #e6c547;
     font-weight: 700;
 }
-
+.logo-img {
+    height: 50px;         /* adjust size as needed */
+    width: auto;          /* keeps proportions */
+    display: block;
+}
 .nav-menu {
     display: flex;
     list-style: none;

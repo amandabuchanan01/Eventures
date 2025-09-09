@@ -50,7 +50,7 @@ h1, h2, h3 {
 }
 
 .logo-img {
-    height: 48px;         /* adjust size as needed */
+    height: 80px;         /* adjust size as needed */
     width: auto;          /* keeps proportions */
     display: block;
  transition: max-height 0.3s ease;
@@ -551,7 +551,7 @@ h1, h2, h3 {
     }
   
  .logo-img {
-    max-height: 32px;
+    max-height: 50px;
   }
  
   .navbar {
